@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\rtr\Examples\Examples005_Condotionifelse\obj\Debug\net6.0\Examples005_Condotionifelse.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\rtr\Examples\Examples005_Condotionifelse\obj\Debug\net6.0\Examples005_Condotionifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\rtr\Examples\Examples005_Condotionifelse\obj\Debug\net6.0\Examples005_Condotionifelse.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\rtr\Examples\Examples005_Condotionifelse\obj\Debug\net6.0\Examples005_Condotionifelse.AssemblyInfo.cs
+C:\Users\User\Desktop\rtr\Examples\Examples005_Condotionifelse\obj\Debug\net6.0\Examples005_Condotionifelse.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\rtr\Examples\Examples005_Condotionifelse\bin\Debug\net6.0\Examples005_Condotionifelse.exe
+C:\Users\User\Desktop\rtr\Examples\Examples005_Condotionifelse\bin\Debug\net6.0\Examples005_Condotionifelse.deps.json
+C:\Users\User\Desktop\rtr\Examples\Examples005_Condotionifelse\bin\Debug\net6.0\Examples005_Condotionifelse.runtimeconfig.json
+C:\Users\User\Desktop\rtr\Examples\Examples005_Condotionifelse\bin\Debug\net6.0\Examples005_Condotionifelse.dll
+C:\Users\User\Desktop\rtr\Examples\Examples005_Condotionifelse\bin\Debug\net6.0\Examples005_Condotionifelse.pdb
+C:\Users\User\Desktop\rtr\Examples\Examples005_Condotionifelse\obj\Debug\net6.0\Examples005_Condotionifelse.dll
+C:\Users\User\Desktop\rtr\Examples\Examples005_Condotionifelse\obj\Debug\net6.0\refint\Examples005_Condotionifelse.dll
+C:\Users\User\Desktop\rtr\Examples\Examples005_Condotionifelse\obj\Debug\net6.0\Examples005_Condotionifelse.pdb
+C:\Users\User\Desktop\rtr\Examples\Examples005_Condotionifelse\obj\Debug\net6.0\Examples005_Condotionifelse.genruntimeconfig.cache
+C:\Users\User\Desktop\rtr\Examples\Examples005_Condotionifelse\obj\Debug\net6.0\ref\Examples005_Condotionifelse.dll
